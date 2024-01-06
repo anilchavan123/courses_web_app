@@ -4,7 +4,7 @@
   <groupId>in.ashokit</groupId>
   <artifactId>course_web_app</artifactId>
   <packaging>war</packaging>
-  <version>2.1-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <name>course_web_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
